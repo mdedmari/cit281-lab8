@@ -1,1 +1,3 @@
 theme: jekyll-theme-minimal
+title: CIT 281 - Lab 8
+description: I learned to create lab files and initalize Node.js folders, install node-fetch packages, add fastify starter code, add require statements, and fetch JSONPlaceholder data.
